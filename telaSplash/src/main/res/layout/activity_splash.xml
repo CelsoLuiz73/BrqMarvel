@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFBE17"
+    tools:context=".view.SplashActivity">
+
+  <ImageView
+      android:id="@+id/imageMarvel"
+      android:src="@drawable/fundo_icones_marvel"
+      android:layout_width="330dp"
+      android:layout_height="320dp"
+      android:layout_marginStart="35dp"
+      android:layout_marginEnd="35dp"
+      android:layout_marginTop="30dp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"/>
+
+  <ProgressBar
+      android:id="@+id/progressSplashBar"
+      style="@android:style/Animation"
+      android:layout_width="190dp"
+      android:layout_height="190dp"
+      android:indeterminateTint="#FFD40318"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageMarvel" />
+
+  <ImageView
+      android:layout_width="110dp"
+      android:layout_height="110dp"
+      android:src="@drawable/logo_captain_america"
+      app:layout_constraintBottom_toBottomOf="@+id/progressSplashBar"
+      app:layout_constraintEnd_toEndOf="@+id/progressSplashBar"
+      app:layout_constraintStart_toStartOf="@+id/progressSplashBar"
+      app:layout_constraintTop_toTopOf="@+id/progressSplashBar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
