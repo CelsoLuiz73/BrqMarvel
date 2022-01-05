@@ -4,13 +4,38 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
-        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/layout/login_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/drawable-v24/background_botton_grid.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/drawable/background_botton.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/drawable/ic_android_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/drawable/ic_baseline_anchor_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/drawable/ic_baseline_search_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/layout/cadastro_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaCadastro/src/debug/res/layout/login_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable-v24/background_botton_grid.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/background_botton.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_android_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_baseline_anchor_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_broom.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_chupeta.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_faucet.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_nail_polish.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_raio.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/drawable/ic_secador_de_cabelo.xml" value="0.2203125" />
+        <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaLogin/src/main/res/layout/login_activity.xml" value="0.25" />
         <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaSplash/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
         <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaSplash/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
         <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaSplash/src/main/res/layout/activity_splash.xml" value="0.22" />
         <entry key="..\:/Users/celsooliveira/AndroidStudioProjects/BrqMarvel/telaSplash/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
       </map>
     </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://schemas.android.com/apk/res/android" location="$PROJECT_DIR$" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />

@@ -10,11 +10,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/appTelaSplash" />
             <option value="$PROJECT_DIR$/modelos" />
             <option value="$PROJECT_DIR$/telaCadastro" />
             <option value="$PROJECT_DIR$/telaLogin" />
             <option value="$PROJECT_DIR$/telaPersonagens" />
-            <option value="$PROJECT_DIR$/telaSplash" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

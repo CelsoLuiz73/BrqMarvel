@@ -7,7 +7,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "BrqMarvel"
-include ':telaSplash'
+include ':appTelaSplash'
 include ':telaLogin'
 include ':telaCadastro'
 include ':telaPersonagens'

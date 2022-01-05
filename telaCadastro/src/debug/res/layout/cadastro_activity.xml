@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/myYellowMarvelcolor"
-    tools:context=".view.LoginActivity">
+    tools:context=".view.CadastroActivity">
 
         <ImageView
             android:id="@+id/imagemFundoMarvel"
@@ -87,38 +87,6 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button"
             app:layout_constraintEnd_toEndOf="parent"/>
-
-        <ImageView
-            android:id="@+id/imagemIconeFace"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            app:srcCompat="@drawable/logo_facebook"
-            android:layout_marginTop="10dp"
-            android:layout_marginBottom="10dp"
-            app:layout_constraintStart_toStartOf="@+id/button"
-            app:layout_constraintTop_toBottomOf="@+id/textView_esqueceuSenha"
-            app:layout_constraintBottom_toTopOf="@+id/textView_naoTemConta"
-            app:layout_constraintHorizontal_bias="0.0"/>
-
-        <ImageView
-            android:id="@+id/imagemIconeGmail"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            app:srcCompat="@drawable/logo_gmail"
-            app:layout_constraintStart_toEndOf="@+id/imagemIconeFace"
-            app:layout_constraintTop_toTopOf="@+id/imagemIconeFace"
-            app:layout_constraintEnd_toStartOf="@+id/imagemIconeLinkedin"
-            app:layout_constraintBottom_toBottomOf="@+id/imagemIconeFace"
-            app:layout_constraintVertical_bias="0.0"/>
-
-        <ImageView
-            android:id="@+id/imagemIconeLinkedin"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            app:srcCompat="@drawable/logo_linkedin"
-            app:layout_constraintTop_toTopOf="@+id/imagemIconeGmail"
-            app:layout_constraintEnd_toEndOf="@+id/button"
-            app:layout_constraintBottom_toBottomOf="@+id/imagemIconeGmail"/>
 
         <TextView
             android:id="@+id/textView_naoTemConta"
